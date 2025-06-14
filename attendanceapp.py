@@ -1,3 +1,4 @@
+def run_attendance_app():
 import streamlit as st
 import pandas as pd
 import json

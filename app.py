@@ -25,7 +25,7 @@ def export_to_excel(data):
     return "students_record.xlsx"
 
 st.set_page_config(page_title="🎓 Student Fee Manager", layout="centered")
-st.title("📚 Student & Fee Record Manager")
+st.title("📚 Nizami I/H School")
 
 students = load_data()
 

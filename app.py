@@ -1,3 +1,4 @@
+def run_fee_app():
 import streamlit as st
 import pandas as pd
 import os
